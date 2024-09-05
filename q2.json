@@ -1,0 +1,393 @@
+[
+  {
+    "subject": "Biology",
+    "question_text": "What are the four common components found in all cells, both prokaryotic and eukaryotic?",
+    "topic": "Cell Structure",
+    "subtopic": "Components of Prokaryotic Cells",
+    "answer_options": {
+      "A": "Nucleus, cytoplasm, ribosomes, and DNA",
+      "B": "Plasma membrane, cytoplasm, ribosomes, and DNA",
+      "C": "Cell wall, cytoplasm, mitochondria, and DNA",
+      "D": "Chloroplasts, cytoplasm, ribosomes, and RNA"
+    },
+    "correct_option": "B",
+    "explanation": "All cells, regardless of their type, share these four fundamental components: a plasma membrane, cytoplasm, ribosomes, and DNA.",
+    "intensity": 0.5,
+    "expected_response_time": 25,
+    "normalized_response_time": 0.4
+  },
+  {
+    "subject": "Biology",
+    "question_text": "What is the region within a prokaryotic cell where the DNA is located?",
+    "topic": "Cell Structure",
+    "subtopic": "Components of Prokaryotic Cells",
+    "answer_options": {
+      "A": "Nucleus",
+      "B": "Nucleoid",
+      "C": "Cytoplasm",
+      "D": "Ribosome"
+    },
+    "correct_option": "B",
+    "explanation": "The nucleoid is the central region of a prokaryotic cell where the DNA, a single circular chromosome, is found. It's not enclosed by a membrane.",
+    "intensity": 0.6,
+    "expected_response_time": 20,
+    "normalized_response_time": 0.3
+  },
+  {
+    "subject": "Biology",
+    "question_text": "Which type of microscope would be best for viewing living cells in their natural state?",
+    "topic": "Cell Structure",
+    "subtopic": "Microscopy",
+    "answer_options": {
+      "A": "Light microscope",
+      "B": "Scanning electron microscope",
+      "C": "Transmission electron microscope",
+      "D": "Atomic force microscope"
+    },
+    "correct_option": "A",
+    "explanation": "Light microscopes are suitable for viewing living specimens because they use visible light, which is generally less damaging to cells than the electron beams used in electron microscopes.",
+    "intensity": 0.5,
+    "expected_response_time": 20,
+    "normalized_response_time": 0.3
+  },
+  {
+    "subject": "Biology",
+    "question_text": "What is the function of the capsule in prokaryotic cells?",
+    "topic": "Cell Structure",
+    "subtopic": "Prokaryotic Cells",
+    "answer_options": {
+      "A": "Protein synthesis",
+      "B": "Energy production",
+      "C": "Attachment to surfaces and protection",
+      "D": "DNA replication"
+    },
+    "correct_option": "C",
+    "explanation": "The capsule is a sticky outer layer found in some prokaryotes, providing protection from the environment and allowing the cell to adhere to surfaces.",
+    "intensity": 0.6,
+    "expected_response_time": 25,
+    "normalized_response_time": 0.4
+  },
+  {
+    "subject": "Biology",
+    "question_text": "What is the name for the finger-like projections on the plasma membrane of cells specialized in absorption, such as those lining the small intestine?",
+    "topic": "Cell Structure",
+    "subtopic": "The Plasma Membrane",
+    "answer_options": {
+      "A": "Flagella",
+      "B": "Cilia",
+      "C": "Microvilli",
+      "D": "Pseudopods"
+    },
+    "correct_option": "C",
+    "explanation": "Microvilli are small, finger-like extensions of the plasma membrane that increase the surface area available for absorption, as seen in the lining of the small intestine.",
+    "intensity": 0.7,
+    "expected_response_time": 30,
+    "normalized_response_time": 0.5
+  },
+  {
+    "subject": "Biology",
+    "question_text": "What is the gel-like substance that fills the region between the plasma membrane and the nucleus in eukaryotic cells?",
+    "topic": "Cell Structure",
+    "subtopic": "The Cytoplasm",
+    "answer_options": {
+      "A": "Nucleoplasm",
+      "B": "Cytosol",
+      "C": "Stroma",
+      "D": "Matrix"
+    },
+    "correct_option": "B",
+    "explanation": "Cytosol is the fluid portion of the cytoplasm, containing dissolved molecules, ions, and the cytoskeleton, providing a medium for cellular processes.",
+    "intensity": 0.4,
+    "expected_response_time": 20,
+    "normalized_response_time": 0.3
+  },
+  {
+    "subject": "Biology",
+    "question_text": "What is the name for the unwound, jumbled bunch of threads that make up chromosomes during the growth and maintenance phases of the cell cycle?",
+    "topic": "Cell Structure",
+    "subtopic": "Chromatin and Chromosomes",
+    "answer_options": {
+      "A": "Ribosomes",
+      "B": "Nucleosomes",
+      "C": "Chromatin",
+      "D": "Centromeres"
+    },
+    "correct_option": "C",
+    "explanation": "Chromatin is the complex of DNA and proteins that makes up chromosomes. It appears as a diffuse mass when the cell is not dividing.",
+    "intensity": 0.6,
+    "expected_response_time": 25,
+    "normalized_response_time": 0.4
+  },
+  {
+    "subject": "Biology",
+    "question_text": "Which of these structures is found in animal cells but NOT in most plant cells?",
+    "topic": "Cell Structure",
+    "subtopic": "Lysosomes",
+    "answer_options": {
+      "A": "Chloroplast",
+      "B": "Lysosome",
+      "C": "Central vacuole",
+      "D": "Cell wall"
+    },
+    "correct_option": "B",
+    "explanation": "Lysosomes are membrane-bound organelles containing digestive enzymes, primarily found in animal cells. Plant cells typically use vacuoles for similar digestive functions.",
+    "intensity": 0.5,
+    "expected_response_time": 20,
+    "normalized_response_time": 0.3
+  },
+  {
+    "subject": "Biology",
+    "question_text": "What is the main function of chloroplasts?",
+    "topic": "Cell Structure",
+    "subtopic": "Chloroplasts",
+    "answer_options": {
+      "A": "Cellular respiration",
+      "B": "Photosynthesis",
+      "C": "Protein synthesis",
+      "D": "Lipid synthesis"
+    },
+    "correct_option": "B",
+    "explanation": "Chloroplasts are the sites of photosynthesis in plant cells, where light energy is converted into chemical energy in the form of glucose.",
+    "intensity": 0.4,
+    "expected_response_time": 15,
+    "normalized_response_time": 0.2
+  },
+  {
+    "subject": "Biology",
+    "question_text": "What is the name for the stacks of fluid-filled membrane sacs within chloroplasts?",
+    "topic": "Cell Structure",
+    "subtopic": "Chloroplasts",
+    "answer_options": {
+      "A": "Cristae",
+      "B": "Thylakoids",
+      "C": "Grana",
+      "D": "Stroma"
+    },
+    "correct_option": "C",
+    "explanation": "Grana are stacks of thylakoids, which are individual flattened membrane sacs within chloroplasts. The thylakoids contain chlorophyll and are the sites of the light-dependent reactions of photosynthesis.",
+    "intensity": 0.7,
+    "expected_response_time": 30,
+    "normalized_response_time": 0.5
+  },
+  {
+    "subject": "Biology",
+    "question_text": "What is the green pigment found in chloroplasts that captures light energy for photosynthesis?",
+    "topic": "Cell Structure",
+    "subtopic": "Chloroplasts",
+    "answer_options": {
+      "A": "Carotenoid",
+      "B": "Xanthophyll",
+      "C": "Chlorophyll",
+      "D": "Anthocyanin"
+    },
+    "correct_option": "C",
+    "explanation": "Chlorophyll is the primary pigment in chloroplasts, responsible for absorbing light energy, primarily in the blue and red wavelengths, and driving the process of photosynthesis.",
+    "intensity": 0.5,
+    "expected_response_time": 20,
+    "normalized_response_time": 0.3
+  },
+  {
+    "subject": "Biology",
+    "question_text": "Which of the following is NOT a function of the cytoskeleton?",
+    "topic": "Cell Structure",
+    "subtopic": "Microfilaments",
+    "answer_options": {
+      "A": "Maintaining cell shape",
+      "B": "Facilitating cellular movement",
+      "C": "Anchoring organelles",
+      "D": "Synthesizing proteins"
+    },
+    "correct_option": "D",
+    "explanation": "Protein synthesis is the function of ribosomes, not the cytoskeleton. The cytoskeleton provides structural support, aids in movement, and helps organize organelles within the cell.",
+    "intensity": 0.5,
+    "expected_response_time": 20,
+    "normalized_response_time": 0.3
+  },
+  {
+    "subject": "Biology",
+    "question_text": "Which type of cell junction acts like a spot weld, providing strong mechanical connections between adjacent cells?",
+    "topic": "Cell Structure",
+    "subtopic": "Intercellular Junctions",
+    "answer_options": {
+      "A": "Plasmodesma",
+      "B": "Tight junction",
+      "C": "Desmosome",
+      "D": "Gap junction"
+    },
+    "correct_option": "C",
+    "explanation": "Desmosomes are strong cell junctions that provide mechanical strength and stability to tissues that experience stretching or mechanical stress, such as skin and heart muscle.",
+    "intensity": 0.6,
+    "expected_response_time": 25,
+    "normalized_response_time": 0.4
+  },
+  {
+    "subject": "Biology",
+    "question_text": "Which component of the cytoskeleton is involved in the movement of cilia and flagella?",
+    "topic": "Cell Structure",
+    "subtopic": "Microtubules",
+    "answer_options": {
+      "A": "Microfilaments",
+      "B": "Intermediate filaments",
+      "C": "Microtubules",
+      "D": "Actin filaments"
+    },
+    "correct_option": "C",
+    "explanation": "Microtubules form the internal structure of cilia and flagella, arranged in a 9 + 2 pattern, which enables their movement.",
+    "intensity": 0.6,
+    "expected_response_time": 25,
+    "normalized_response_time": 0.4
+  },
+  {
+    "subject": "Biology",
+    "question_text": "Which structure is responsible for assembling ribosomal subunits in the nucleus?",
+    "topic": "Cell Structure",
+    "subtopic": "The Nucleolus",
+    "answer_options": {
+      "A": "Centrosome",
+      "B": "Nucleolus",
+      "C": "Chromatin",
+      "D": "Nuclear pore"
+    },
+    "correct_option": "B",
+    "explanation": "The nucleolus is a dense region within the nucleus where ribosomal RNA (rRNA) is transcribed and assembled with proteins to form ribosomal subunits.",
+    "intensity": 0.5,
+    "expected_response_time": 20,
+    "normalized_response_time": 0.3
+  },
+  {
+    "subject": "Biology",
+    "question_text": "What is the term for the process by which a macrophage engulfs a pathogen?",
+    "topic": "Cell Structure",
+    "subtopic": "Lysosomes",
+    "answer_options": {
+      "A": "Pinocytosis",
+      "B": "Exocytosis",
+      "C": "Phagocytosis",
+      "D": "Osmosis"
+    },
+    "correct_option": "C",
+    "explanation": "Phagocytosis is a type of endocytosis in which a cell, such as a macrophage, engulfs large particles or whole cells, forming a vesicle called a phagosome.",
+    "intensity": 0.7,
+    "expected_response_time": 30,
+    "normalized_response_time": 0.5
+  },
+  {
+    "subject": "Biology",
+    "question_text": "What are the flattened, membrane-bound sacs that make up the Golgi apparatus called?",
+    "topic": "Cell Structure",
+    "subtopic": "The Golgi Apparatus",
+    "answer_options": {
+      "A": "Cristae",
+      "B": "Thylakoids",
+      "C": "Cisternae",
+      "D": "Vacuoles"
+    },
+    "correct_option": "C",
+    "explanation": "Cisternae are the flattened, stacked membrane compartments that make up the Golgi apparatus, where proteins and lipids are modified, sorted, and packaged.",
+    "intensity": 0.6,
+    "expected_response_time": 25,
+    "normalized_response_time": 0.4
+  },
+  {
+    "subject": "Biology",
+    "question_text": "If a cell grows too large, what problem might it encounter regarding the transport of substances across its plasma membrane?",
+    "topic": "Cell Structure",
+    "subtopic": "Cell Size",
+    "answer_options": {
+      "A": "The volume increases faster than the surface area, making diffusion less efficient.",
+      "B": "The surface area increases faster than the volume, making diffusion more efficient.",
+      "C": "The cell wall becomes too rigid, restricting nutrient uptake.",
+      "D": "The nucleus becomes too large, interfering with transport."
+    },
+    "correct_option": "A",
+    "explanation": "As a cell grows, its volume increases more rapidly than its surface area. This means there's relatively less surface area for exchange of materials, making diffusion less efficient for a larger cell.",
+    "intensity": 0.7,
+    "expected_response_time": 30,
+    "normalized_response_time": 0.5
+  },
+  {
+    "subject": "Biology",
+    "question_text": "What is the endosymbiotic theory?",
+    "topic": "Cell Structure",
+    "subtopic": "Endosymbiosis",
+    "answer_options": {
+      "A": "The theory that prokaryotic cells evolved from eukaryotic cells.",
+      "B": "The theory that eukaryotic cells evolved from a symbiotic relationship between different types of prokaryotic cells.",
+      "C": "The theory that viruses are the ancestors of all cells.",
+      "D": "The theory that all cells arose spontaneously from non-living matter."
+    },
+    "correct_option": "B",
+    "explanation": "The endosymbiotic theory proposes that mitochondria and chloroplasts in eukaryotic cells originated from free-living prokaryotic cells that were engulfed by ancestral eukaryotic cells, establishing a mutually beneficial relationship.",
+    "intensity": 0.8,
+    "expected_response_time": 35,
+    "normalized_response_time": 0.6
+  },
+  {
+    "subject": "Biology",
+    "question_text": "Which of the following is NOT evidence supporting the endosymbiotic theory?",
+    "topic": "Cell Structure",
+    "subtopic": "Endosymbiosis",
+    "answer_options": {
+      "A": "Mitochondria and chloroplasts have their own DNA.",
+      "B": "Mitochondria and chloroplasts have their own ribosomes.",
+      "C": "Mitochondria and chloroplasts are similar in size to bacteria.",
+      "D": "Mitochondria and chloroplasts have a cell wall similar to bacteria."
+    },
+    "correct_option": "D",
+    "explanation": "While mitochondria and chloroplasts have their own DNA, ribosomes, and are similar in size to bacteria, they do not have a cell wall like bacteria. The presence of DNA and ribosomes, along with size similarities, strongly support the idea that they originated from engulfed prokaryotic cells.",
+    "intensity": 0.7,
+    "expected_response_time": 30,
+    "normalized_response_time": 0.5
+  },
+  {
+    "subject": "Biology",
+    "question_text": "What is the name of the specialized smooth endoplasmic reticulum (SER) in muscle cells that stores calcium ions?",
+    "topic": "Cell Structure",
+    "subtopic": "The Endoplasmic Reticulum",
+    "answer_options": {
+      "A": "Golgi apparatus",
+      "B": "Sarcoplasmic reticulum",
+      "C": "Lysosome",
+      "D": "Peroxisome"
+    },
+    "correct_option": "B",
+    "explanation": "The sarcoplasmic reticulum is a specialized type of SER in muscle cells that plays a crucial role in regulating muscle contraction by storing and releasing calcium ions.",
+    "intensity": 0.6,
+    "expected_response_time": 25,
+    "normalized_response_time": 0.4
+  },
+  {
+    "subject": "Biology",
+    "question_text": "What is the function of the extracellular matrix in animal cells?",
+    "topic": "Cell Structure",
+    "subtopic": "Extracellular Matrix of Animal Cells",
+    "answer_options": {
+      "A": "Protein synthesis",
+      "B": "Energy production",
+      "C": "Providing structural support and facilitating cell communication",
+      "D": "DNA replication"
+    },
+    "correct_option": "C",
+    "explanation": "The extracellular matrix (ECM) is a network of proteins and carbohydrates outside the cell that provides structural support, cell adhesion, and signals that influence cell behavior.",
+    "intensity": 0.7,
+    "expected_response_time": 30,
+    "normalized_response_time": 0.5
+  },
+  {
+    "subject": "Biology",
+    "question_text": "What is the main component of the extracellular matrix?",
+    "topic": "Cell Structure",
+    "subtopic": "Extracellular Matrix of Animal Cells",
+    "answer_options": {
+      "A": "Cellulose",
+      "B": "Chitin",
+      "C": "Collagen",
+      "D": "Peptidoglycan"
+    },
+    "correct_option": "C",
+    "explanation": "Collagen is the most abundant protein in the extracellular matrix of animal cells, providing tensile strength and structural support.",
+    "intensity": 0.5,
+    "expected_response_time": 20,
+    "normalized_response_time": 0.3
+  }
+]

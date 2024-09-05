@@ -1,0 +1,427 @@
+[
+  {
+    "subject": "Biology",
+    "question_text": "What technique is commonly used by scientists to make transparent cells visible under a light microscope?",
+    "topic": "Cell Structure",
+    "subtopic": "Microscopy",
+    "answer_options": {
+      "A": "Electron beams",
+      "B": "High temperatures",
+      "C": "Special stains",
+      "D": "Radioactive isotopes"
+    },
+    "correct_option": "C",
+    "explanation": "Staining enhances the visibility of cellular components under a light microscope, although it usually kills the cells.",
+    "intensity": 0.4,
+    "expected_response_time": 20,
+    "normalized_response_time": 0.3
+  },
+  {
+    "subject": "Biology",
+    "question_text": "Which type of microscope would be most suitable for studying the detailed three-dimensional surface of a virus?",
+    "topic": "Cell Structure",
+    "subtopic": "Microscopy",
+    "answer_options": {
+      "A": "Light microscope",
+      "B": "Transmission electron microscope",
+      "C": "Scanning electron microscope",
+      "D": "Compound microscope"
+    },
+    "correct_option": "C",
+    "explanation": "A scanning electron microscope produces images by scanning a focused beam of electrons across the surface of a sample, providing detailed three-dimensional surface information.",
+    "intensity": 0.6,
+    "expected_response_time": 25,
+    "normalized_response_time": 0.4
+  },
+  {
+    "subject": "Biology",
+    "question_text": "What is the key difference between magnification and resolving power in microscopy?",
+    "topic": "Cell Structure",
+    "subtopic": "Microscopy",
+    "answer_options": {
+      "A": "Magnification refers to clarity, while resolving power refers to size.",
+      "B": "Magnification is the process of enlarging an object, while resolving power is the ability to distinguish separate structures.",
+      "C": "Magnification uses electrons, while resolving power uses light.",
+      "D": "Magnification is only used in light microscopes, while resolving power is only used in electron microscopes."
+    },
+    "correct_option": "B",
+    "explanation": "Magnification is simply the enlargement of an object's appearance, while resolving power determines the ability to see two adjacent structures as distinct.",
+    "intensity": 0.5,
+    "expected_response_time": 30,
+    "normalized_response_time": 0.5
+  },
+  {
+    "subject": "Biology",
+    "question_text": "Which statement is NOT a part of the unified cell theory?",
+    "topic": "Cell Structure",
+    "subtopic": "Cell Theory",
+    "answer_options": {
+      "A": "All living organisms are composed of one or more cells.",
+      "B": "The cell is the basic unit of life.",
+      "C": "All cells contain a membrane-bound nucleus.",
+      "D": "New cells arise from existing cells."
+    },
+    "correct_option": "C",
+    "explanation": "The statement that all cells contain a membrane-bound nucleus is incorrect. Prokaryotic cells lack a membrane-bound nucleus.",
+    "intensity": 0.5,
+    "expected_response_time": 25,
+    "normalized_response_time": 0.4
+  },
+  {
+    "subject": "Biology",
+    "question_text": "What is the primary function of fimbriae in prokaryotic cells?",
+    "topic": "Cell Structure",
+    "subtopic": "Prokaryotic Cells",
+    "answer_options": {
+      "A": "Locomotion",
+      "B": "Exchange of genetic material",
+      "C": "Attachment to surfaces",
+      "D": "Attachment to a host cell"
+    },
+    "correct_option": "D",
+    "explanation": "Fimbriae are short, hair-like appendages on the surface of prokaryotic cells that allow them to attach to host cells.",
+    "intensity": 0.6,
+    "expected_response_time": 20,
+    "normalized_response_time": 0.3
+  },
+  {
+    "subject": "Biology",
+    "question_text": "Why is the small size of prokaryotic cells advantageous for nutrient uptake and waste removal?",
+    "topic": "Cell Structure",
+    "subtopic": "Prokaryotic Cells",
+    "answer_options": {
+      "A": "Small cells have a lower surface area-to-volume ratio, allowing for faster diffusion.",
+      "B": "Small cells have a higher surface area-to-volume ratio, allowing for faster diffusion.",
+      "C": "Small cells require less energy for transport processes.",
+      "D": "Small cells have more efficient transport proteins."
+    },
+    "correct_option": "B",
+    "explanation": "A higher surface area-to-volume ratio means that there's more surface area for exchange relative to the cell's volume, making diffusion of nutrients in and wastes out more efficient.",
+    "intensity": 0.7,
+    "expected_response_time": 30,
+    "normalized_response_time": 0.5
+  },
+  {
+    "subject": "Biology",
+    "question_text": "What is the primary component of the plant cell wall?",
+    "topic": "Cell Structure",
+    "subtopic": "Eukaryotic Cells",
+    "answer_options": {
+      "A": "Peptidoglycan",
+      "B": "Chitin",
+      "C": "Cellulose",
+      "D": "Keratin"
+    },
+    "correct_option": "C",
+    "explanation": "Cellulose, a polysaccharide made up of glucose units, is the major component of plant cell walls, providing structural support.",
+    "intensity": 0.4,
+    "expected_response_time": 20,
+    "normalized_response_time": 0.3
+  },
+  {
+    "subject": "Biology",
+    "question_text": "Which organelle is responsible for the synthesis of ATP, the cell's main energy-carrying molecule?",
+    "topic": "Cell Structure",
+    "subtopic": "Eukaryotic Cells",
+    "answer_options": {
+      "A": "Nucleus",
+      "B": "Ribosome",
+      "C": "Mitochondrion",
+      "D": "Chloroplast"
+    },
+    "correct_option": "C",
+    "explanation": "Mitochondria are often called the 'powerhouses' of the cell because they produce ATP through cellular respiration.",
+    "intensity": 0.3,
+    "expected_response_time": 15,
+    "normalized_response_time": 0.2
+  },
+  {
+    "subject": "Biology",
+    "question_text": "What is the function of lysosomes in animal cells?",
+    "topic": "Cell Structure",
+    "subtopic": "Eukaryotic Cells",
+    "answer_options": {
+      "A": "Protein synthesis",
+      "B": "Lipid synthesis",
+      "C": "Photosynthesis",
+      "D": "Digestion of macromolecules"
+    },
+    "correct_option": "D",
+    "explanation": "Lysosomes are membrane-bound organelles that contain digestive enzymes, breaking down various macromolecules and cellular debris.",
+    "intensity": 0.5,
+    "expected_response_time": 20,
+    "normalized_response_time": 0.3
+  },
+  {
+    "subject": "Biology",
+    "question_text": "Which organelle is found in plant cells but NOT in animal cells?",
+    "topic": "Cell Structure",
+    "subtopic": "Eukaryotic Cells",
+    "answer_options": {
+      "A": "Mitochondrion",
+      "B": "Ribosome",
+      "C": "Chloroplast",
+      "D": "Golgi apparatus"
+    },
+    "correct_option": "C",
+    "explanation": "Chloroplasts are the sites of photosynthesis in plant cells and are not found in animal cells.",
+    "intensity": 0.4,
+    "expected_response_time": 15,
+    "normalized_response_time": 0.2
+  },
+  {
+    "subject": "Biology",
+    "question_text": "What is the function of the central vacuole in plant cells?",
+    "topic": "Cell Structure",
+    "subtopic": "Eukaryotic Cells",
+    "answer_options": {
+      "A": "Energy production",
+      "B": "Protein synthesis",
+      "C": "Regulation of water concentration",
+      "D": "Cell division"
+    },
+    "correct_option": "C",
+    "explanation": "The central vacuole plays a crucial role in maintaining turgor pressure and regulating the cell's water balance in response to changing environmental conditions.",
+    "intensity": 0.6,
+    "expected_response_time": 25,
+    "normalized_response_time": 0.4
+  },
+  {
+    "subject": "Biology",
+    "question_text": "Where is the nucleolus located within a eukaryotic cell?",
+    "topic": "Cell Structure",
+    "subtopic": "The Nucleus",
+    "answer_options": {
+      "A": "Cytoplasm",
+      "B": "Mitochondrion",
+      "C": "Nucleus",
+      "D": "Golgi apparatus"
+    },
+    "correct_option": "C",
+    "explanation": "The nucleolus is a distinct region within the nucleus, responsible for ribosome assembly.",
+    "intensity": 0.3,
+    "expected_response_time": 15,
+    "normalized_response_time": 0.2
+  },
+  {
+    "subject": "Biology",
+    "question_text": "What is the primary function of ribosomes?",
+    "topic": "Cell Structure",
+    "subtopic": "Ribosomes",
+    "answer_options": {
+      "A": "DNA replication",
+      "B": "Lipid synthesis",
+      "C": "Protein synthesis",
+      "D": "Cellular respiration"
+    },
+    "correct_option": "C",
+    "explanation": "Ribosomes are responsible for translating the genetic code from mRNA into proteins.",
+    "intensity": 0.3,
+    "expected_response_time": 15,
+    "normalized_response_time": 0.2
+  },
+  {
+    "subject": "Biology",
+    "question_text": "What is the main difference between rough endoplasmic reticulum (RER) and smooth endoplasmic reticulum (SER)?",
+    "topic": "Cell Structure",
+    "subtopic": "The Endoplasmic Reticulum",
+    "answer_options": {
+      "A": "RER has ribosomes attached, while SER does not.",
+      "B": "RER synthesizes lipids, while SER synthesizes proteins.",
+      "C": "RER is involved in detoxification, while SER is involved in protein modification.",
+      "D": "RER is found in plant cells, while SER is found in animal cells."
+    },
+    "correct_option": "A",
+    "explanation": "The presence of ribosomes on the surface of RER gives it a 'rough' appearance, while SER lacks ribosomes.",
+    "intensity": 0.5,
+    "expected_response_time": 20,
+    "normalized_response_time": 0.3
+  },
+  {
+    "subject": "Biology",
+    "question_text": "What is the role of the Golgi apparatus in protein processing?",
+    "topic": "Cell Structure",
+    "subtopic": "The Golgi Apparatus",
+    "answer_options": {
+      "A": "Protein synthesis",
+      "B": "Protein folding",
+      "C": "Sorting, tagging, and packaging of proteins",
+      "D": "Protein degradation"
+    },
+    "correct_option": "C",
+    "explanation": "The Golgi apparatus acts as a processing and distribution center, modifying, sorting, and packaging proteins into vesicles for transport to their final destinations.",
+    "intensity": 0.6,
+    "expected_response_time": 25,
+    "normalized_response_time": 0.4
+  },
+  {
+    "subject": "Biology",
+    "question_text": "Which cellular component plays a role in breaking down harmful substances that may enter the cell?",
+    "topic": "Cell Structure",
+    "subtopic": "Peroxisomes",
+    "answer_options": {
+      "A": "Mitochondrion",
+      "B": "Peroxisome",
+      "C": "Lysosome",
+      "D": "Golgi apparatus"
+    },
+    "correct_option": "B",
+    "explanation": "Peroxisomes contain enzymes that break down fatty acids and amino acids, and they also detoxify harmful substances, often producing hydrogen peroxide as a byproduct.",
+    "intensity": 0.5,
+    "expected_response_time": 20,
+    "normalized_response_time": 0.3
+  },
+  {
+    "subject": "Biology",
+    "question_text": "Which type of cell junction creates a watertight seal between adjacent animal cells?",
+    "topic": "Cell Structure",
+    "subtopic": "Intercellular Junctions",
+    "answer_options": {
+      "A": "Plasmodesma",
+      "B": "Tight junction",
+      "C": "Desmosome",
+      "D": "Gap junction"
+    },
+    "correct_option": "B",
+    "explanation": "Tight junctions are formed by proteins that tightly bind adjacent cell membranes, preventing leakage of fluids and substances between cells.",
+    "intensity": 0.5,
+    "expected_response_time": 20,
+    "normalized_response_time": 0.3
+  },
+  {
+    "subject": "Biology",
+    "question_text": "Which type of intercellular junction allows for direct communication and exchange of small molecules between adjacent plant cells?",
+    "topic": "Cell Structure",
+    "subtopic": "Intercellular Junctions",
+    "answer_options": {
+      "A": "Plasmodesma",
+      "B": "Tight junction",
+      "C": "Desmosome",
+      "D": "Gap junction"
+    },
+    "correct_option": "A",
+    "explanation": "Plasmodesmata are channels that pass through the cell walls of adjacent plant cells, connecting their cytoplasm and allowing for the flow of materials and signals.",
+    "intensity": 0.5,
+    "expected_response_time": 20,
+    "normalized_response_time": 0.3
+  },
+  {
+    "subject": "Biology",
+    "question_text": "Which component of the cytoskeleton is involved in muscle contraction?",
+    "topic": "Cell Structure",
+    "subtopic": "Microfilaments",
+    "answer_options": {
+      "A": "Microtubules",
+      "B": "Intermediate filaments",
+      "C": "Microfilaments",
+      "D": "Centrioles"
+    },
+    "correct_option": "C",
+    "explanation": "Microfilaments, made of the protein actin, interact with the motor protein myosin to generate the force needed for muscle contraction.",
+    "intensity": 0.4,
+    "expected_response_time": 15,
+    "normalized_response_time": 0.2
+  },
+  {
+    "subject": "Biology",
+    "question_text": "Which cytoskeletal element provides structural support and helps maintain the shape of the cell?",
+    "topic": "Cell Structure",
+    "subtopic": "Intermediate Filaments",
+    "answer_options": {
+      "A": "Microtubules",
+      "B": "Intermediate filaments",
+      "C": "Microfilaments",
+      "D": "Flagella"
+    },
+    "correct_option": "B",
+    "explanation": "Intermediate filaments are strong, fibrous proteins that provide mechanical support and help maintain cell shape, acting like a scaffolding within the cell.",
+    "intensity": 0.5,
+    "expected_response_time": 20,
+    "normalized_response_time": 0.3
+  },
+  {
+    "subject": "Biology",
+    "question_text": "Which component of the cytoskeleton is involved in the movement of chromosomes during cell division?",
+    "topic": "Cell Structure",
+    "subtopic": "Microtubules",
+    "answer_options": {
+      "A": "Microtubules",
+      "B": "Intermediate filaments",
+      "C": "Microfilaments",
+      "D": "Centrioles"
+    },
+    "correct_option": "A",
+    "explanation": "Microtubules form the spindle fibers that attach to chromosomes and pull them apart during cell division.",
+    "intensity": 0.6,
+    "expected_response_time": 25,
+    "normalized_response_time": 0.4
+  },
+  {
+    "subject": "Biology",
+    "question_text": "What is the name of the long, hair-like structures that extend from the plasma membrane and are used for cellular locomotion?",
+    "topic": "Cell Structure",
+    "subtopic": "Flagella and Cilia",
+    "answer_options": {
+      "A": "Microvilli",
+      "B": "Cilia",
+      "C": "Flagella",
+      "D": "Pili"
+    },
+    "correct_option": "C",
+    "explanation": "Flagella are long, whip-like structures that propel cells through their environment, while cilia are shorter, hair-like structures involved in movement or moving substances along the cell surface.",
+    "intensity": 0.4,
+    "expected_response_time": 15,
+    "normalized_response_time": 0.2
+  },
+  {
+    "subject": "Biology",
+    "question_text": "What is the primary function of a Pap smear?",
+    "topic": "Cell Structure",
+    "subtopic": "Introduction",
+    "answer_options": {
+      "A": "To diagnose heart disease",
+      "B": "To detect abnormal cell growth or microbial infections in the cervix",
+      "C": "To screen for blood disorders",
+      "D": "To monitor kidney function"
+    },
+    "correct_option": "B",
+    "explanation": "A Pap smear involves collecting cells from the cervix and examining them microscopically for any changes that could indicate abnormal cell growth, precancerous lesions, or infections.",
+    "intensity": 0.5,
+    "expected_response_time": 20,
+    "normalized_response_time": 0.3
+  },
+  {
+    "subject": "Biology",
+    "question_text": "Which type of cell is undifferentiated and has the potential to develop into various specialized cell types?",
+    "topic": "Cell Structure",
+    "subtopic": "Introduction",
+    "answer_options": {
+      "A": "Blood cell",
+      "B": "Epithelial cell",
+      "C": "Stem cell",
+      "D": "Nerve cell"
+    },
+    "correct_option": "C",
+    "explanation": "Stem cells are unspecialized cells that have the ability to differentiate into different types of cells, playing a crucial role in growth, development, and tissue repair.",
+    "intensity": 0.6,
+    "expected_response_time": 25,
+    "normalized_response_time": 0.4
+  },
+  {
+    "subject": "Biology",
+    "question_text": "What is the approximate size range of prokaryotic cells?",
+    "topic": "Cell Structure",
+    "subtopic": "Prokaryotic Cells",
+    "answer_options": {
+      "A": "10 to 100 µm",
+      "B": "0.1 to 5.0 µm",
+      "C": "1 to 10 µm",
+      "D": "100 to 1000 µm"
+    },
+    "correct_option": "B",
+    "explanation": "Prokaryotic cells are generally much smaller than eukaryotic cells, with diameters typically ranging from 0.1 to 5.0 micrometers (µm).",
+    "intensity": 0.4,
+    "expected_response_time": 20,
+    "normalized_response_time": 0.3
+  }
+]
